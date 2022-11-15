@@ -1,0 +1,15 @@
+C:\Users\Toshiba\Desktop\Admission portal\bin\Debug\net6.0\Admission portal.exe
+C:\Users\Toshiba\Desktop\Admission portal\bin\Debug\net6.0\Admission portal.deps.json
+C:\Users\Toshiba\Desktop\Admission portal\bin\Debug\net6.0\Admission portal.runtimeconfig.json
+C:\Users\Toshiba\Desktop\Admission portal\bin\Debug\net6.0\Admission portal.dll
+C:\Users\Toshiba\Desktop\Admission portal\bin\Debug\net6.0\Admission portal.pdb
+C:\Users\Toshiba\Desktop\Admission portal\obj\Debug\net6.0\Admission portal.csproj.AssemblyReference.cache
+C:\Users\Toshiba\Desktop\Admission portal\obj\Debug\net6.0\Admission portal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toshiba\Desktop\Admission portal\obj\Debug\net6.0\Admission portal.AssemblyInfoInputs.cache
+C:\Users\Toshiba\Desktop\Admission portal\obj\Debug\net6.0\Admission portal.AssemblyInfo.cs
+C:\Users\Toshiba\Desktop\Admission portal\obj\Debug\net6.0\Admission portal.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\Desktop\Admission portal\obj\Debug\net6.0\Admission portal.dll
+C:\Users\Toshiba\Desktop\Admission portal\obj\Debug\net6.0\refint\Admission portal.dll
+C:\Users\Toshiba\Desktop\Admission portal\obj\Debug\net6.0\Admission portal.pdb
+C:\Users\Toshiba\Desktop\Admission portal\obj\Debug\net6.0\Admission portal.genruntimeconfig.cache
+C:\Users\Toshiba\Desktop\Admission portal\obj\Debug\net6.0\ref\Admission portal.dll
